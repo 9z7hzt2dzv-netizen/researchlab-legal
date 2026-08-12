@@ -1,11 +1,11 @@
 # AI and How This App Was Made
 
-**ResearchLab**
+**First Principles: Physics**
 Last updated: 12 August 2026
 
 ## There is no AI in the app
 
-ResearchLab contains no artificial intelligence, no machine learning models and no
+First Principles: Physics contains no artificial intelligence, no machine learning models and no
 generative features. It never sends anything to a server, because it has no network code
 in it at all.
 

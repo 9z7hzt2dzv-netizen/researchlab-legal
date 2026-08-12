@@ -1,8 +1,8 @@
-# ResearchLab
+# First Principles: Physics
 
 **More than twenty pieces of physics, simulated on your device and explained from scratch.**
 
-Not videos. Not diagrams. Every picture in ResearchLab is live physics, solved on your
+Not videos. Not diagrams. Every picture here is live physics, solved on your
 iPhone or iPad while you move a control, from the same published equations the field uses.
 Move a slider and the model is re-solved and redrawn — because it was never a picture in
 the first place.
@@ -94,5 +94,5 @@ See [Support](support.md) for what to include.
 
 ---
 
-© 2026 Egzon Pllana. This repository holds the published documents for ResearchLab. The
+© 2026 Egzon Pllana. This repository holds the published documents for First Principles: Physics. The
 app's source code is not part of it.

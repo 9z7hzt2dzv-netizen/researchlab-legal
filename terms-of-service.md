@@ -1,9 +1,9 @@
 # Terms of Use
 
-**ResearchLab**
+**First Principles: Physics**
 Last updated: 12 August 2026
 
-By downloading or using ResearchLab you agree to these terms and to Apple's standard
+By downloading or using First Principles: Physics you agree to these terms and to Apple's standard
 licence for apps bought from the App Store, the Licensed Application End User Licence
 Agreement:
 
@@ -13,7 +13,7 @@ Where these terms and Apple's licence differ, Apple's licence governs.
 
 ## What you are buying
 
-A licence to use ResearchLab on devices you own or control, for personal, non-commercial
+A licence to use First Principles: Physics on devices you own or control, for personal, non-commercial
 use, under the terms of your App Store purchase. The app is bought once. There is no
 subscription, and there are no in-app purchases.
 
@@ -31,7 +31,7 @@ assumptions and the accuracy of the published work they come from.
 
 ## What the app is not
 
-**ResearchLab is not a professional, engineering, navigational, medical, safety or
+**First Principles: Physics is not a professional, engineering, navigational, medical, safety or
 forecasting tool, and must not be used as one.**
 
 Do not use it to plan a flight, dive, voyage, structure or experiment; to judge a storm, a

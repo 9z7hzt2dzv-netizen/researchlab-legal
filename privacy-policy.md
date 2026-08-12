@@ -1,11 +1,11 @@
 # Privacy Policy
 
-**ResearchLab**
+**First Principles: Physics**
 Last updated: 12 August 2026
 
 ## The short version
 
-**ResearchLab collects nothing.**
+**First Principles: Physics collects nothing.**
 
 The app has no network code in it. It cannot send anything anywhere, because there is
 nothing in it that opens a connection. There are no accounts, no sign-in, no analytics,
@@ -43,7 +43,7 @@ It only plays; it never records, and the app has no microphone permission to ask
 
 ## Purchases
 
-ResearchLab is a paid app bought from the App Store. The purchase is handled entirely by
+First Principles: Physics is a paid app bought from the App Store. The purchase is handled entirely by
 Apple. We never see your payment details, your Apple Account, or your name. Apple may
 provide the developer with aggregate, anonymous sales and usage reports, subject to your
 own App Store privacy settings, which you control in Settings on your device.
