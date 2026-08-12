@@ -82,7 +82,7 @@ iOS 26 or later. iPhone and iPad.
 
 ## Support
 
-Questions, bug reports and corrections to the physics: **docpllana@gmail.com**
+Questions, bug reports and corrections to the physics: **9z7hzt2dzv@privaterelay.appleid.com**
 
 See [Support](support.md) for what to include.
 

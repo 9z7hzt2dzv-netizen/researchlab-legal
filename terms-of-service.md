@@ -68,6 +68,6 @@ live.
 
 ## Contact
 
-**docpllana@gmail.com**
+**9z7hzt2dzv@privaterelay.appleid.com**
 
 © 2026 Egzon Pllana

@@ -32,6 +32,6 @@ This is said plainly because it should be, not because it changes what the app d
 
 ## Contact
 
-**docpllana@gmail.com**
+**9z7hzt2dzv@privaterelay.appleid.com**
 
 © 2026 Egzon Pllana
