@@ -1,6 +1,6 @@
 # ResearchLab
 
-**Twenty-six pieces of physics, simulated on your device and explained from scratch.**
+**More than twenty pieces of physics, simulated on your device and explained from scratch.**
 
 Not videos. Not diagrams. Every picture in ResearchLab is live physics, solved on your
 iPhone or iPad while you move a control, from the same published equations the field uses.
